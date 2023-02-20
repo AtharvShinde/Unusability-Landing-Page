@@ -317,6 +317,7 @@ footer {
 .footer-container {
     align-items: flex-start;
     justify-content: space-between;
+    color: #183b56;
 }
 
 .subfooter {
@@ -328,4 +329,5 @@ footer {
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
+    color: #183b56;
 }
